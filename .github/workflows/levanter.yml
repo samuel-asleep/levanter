@@ -5,7 +5,7 @@ on:
     paths:
       - 'config.env'
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
