@@ -6,7 +6,7 @@ on:
     paths:
       - 'config.env'
     branches:
-      - main  # Change to your default branch if different
+      - master  # Change to your default branch if different
   
   # Allow manual trigger to start the loop
   workflow_dispatch:
